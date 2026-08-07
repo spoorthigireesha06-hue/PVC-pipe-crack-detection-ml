@@ -40,7 +40,7 @@ water pressure level.
 ### 7. SMOTE Balancing (Training Set Only)
 Class imbalance (202–329 samples/class) balanced via SMOTE, 
 generating synthetic samples only within the training set. 
-balanced to 264 (all classes)
+balanced to 263 (all classes)
 Validation and test sets remain 100% real data.
 
 ### 8. Model Training
